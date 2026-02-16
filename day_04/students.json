@@ -1,0 +1,61 @@
+[{
+  "id": 1,
+  "first_name": "Jonie",
+  "last_name": "D'Acth",
+  "email": "jdacth0@wufoo.com",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "first_name": "Cazzie",
+  "last_name": "Monksfield",
+  "email": "cmonksfield1@tinypic.com",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "first_name": "Afton",
+  "last_name": "Worms",
+  "email": "aworms2@creativecommons.org",
+  "gender": "Female"
+}, {
+  "id": 4,
+  "first_name": "Marilee",
+  "last_name": "Letcher",
+  "email": "mletcher3@cbsnews.com",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "first_name": "Ikey",
+  "last_name": "Timmis",
+  "email": "itimmis4@goo.ne.jp",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "first_name": "Lucine",
+  "last_name": "Cashell",
+  "email": "lcashell5@multiply.com",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "first_name": "Amanda",
+  "last_name": "Whipple",
+  "email": "awhipple6@yolasite.com",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "first_name": "Kellen",
+  "last_name": "Gatrell",
+  "email": "kgatrell7@engadget.com",
+  "gender": "Polygender"
+}, {
+  "id": 9,
+  "first_name": "Woodie",
+  "last_name": "Simester",
+  "email": "wsimester8@dell.com",
+  "gender": "Polygender"
+}, {
+  "id": 10,
+  "first_name": "Jerri",
+  "last_name": "Harman",
+  "email": "jharman9@tmall.com",
+  "gender": "Male"
+}]
